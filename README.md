@@ -4,6 +4,6 @@
 
 | Colab                                                                                                                                                                          | Info               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] |lab1|
+|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smonobig/laba_1/blob/main/lab_1.ipynb) |lab1|
 
 
